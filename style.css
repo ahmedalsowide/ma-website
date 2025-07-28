@@ -367,3 +367,12 @@ html.rtl .panel p {
 .fab-options a:hover {
   background-color: #f0f0f0;
 }
+.service-image {
+  width: 90%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 10px;
+  margin: 16px auto 10px;
+  display: block;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+}
